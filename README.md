@@ -11,6 +11,10 @@ Azure アーキテクチャ構成図をブラウザ上で作成できる Web ア
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Screenshot
+
+![Azure Diagram Builder](docs/screenshot.png)
+
 ## Features
 
 - **ドラッグ＆ドロップ**: サイドバーから 88 種類の Azure サービスをキャンバスに配置
