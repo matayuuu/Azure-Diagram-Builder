@@ -13,7 +13,7 @@ Azure アーキテクチャ構成図をブラウザ上で作成できる Web ア
 
 ## Screenshot
 
-![Azure Diagram Builder](docs/screenshot.png)
+![Azure Diagram Builder](docs/screenshot_ui.png)
 
 ## Features
 
